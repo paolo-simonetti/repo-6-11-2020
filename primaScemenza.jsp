@@ -7,9 +7,11 @@
 <title>Prima scemenza git</title>
 </head>
 <body>
-ciao paolo
-come va la vita?
-come na crema
+
+<div>
+<p> Bottone con bootstrap </p>
+<button type="button" class="btn btn-danger"> sei un pericolo </button>
+</div>
 
 </body>
 </html>
