@@ -9,6 +9,6 @@
 <body>
 ciao paolo
 
-come stai
+come va la vita?
 </body>
 </html>
